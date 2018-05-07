@@ -1,0 +1,9 @@
+{
+    "target_overrides": {
+        "*": {
+            "idw0xx1.expansion-board": "IDW01M1",
+	    "drivers.uart-serial-txbuf-size": 512,
+	    "drivers.uart-serial-rxbuf-size": 512
+        }
+    }
+}
